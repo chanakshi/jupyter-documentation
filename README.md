@@ -30,6 +30,7 @@ Jupyter Notebook is an open-source, web-based interactive computing environment 
    pip install notebook
 
 
+
 3. **Check Jupyter Version**
 
    ```bash
