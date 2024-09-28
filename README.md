@@ -3,18 +3,18 @@ Jupyter Notebook is an open-source, web-based interactive computing environment 
 
 ### Prerequisites
 1. **Python (version 3.3 or greater)**
-   - a. Jupyter Notebook primarily runs on Python, so you'll need Python installed on your system.  
-   - b. Python 3.6 or later is recommended.  
-   - c. To check if Python is installed, run this command in your terminal or command prompt:
+    a. Jupyter Notebook primarily runs on Python, so you'll need Python installed on your system.  
+    b. Python 3.6 or later is recommended.  
+    c. To check if Python is installed, run this command in your terminal or command prompt:
      
       ```bash
       python --version
       ```  
-   - d. If Python isn't installed, you can download and install it from [Python.org](https://www.python.org/).
+    d. If Python isn't installed, you can download and install it from [Python.org](https://www.python.org/).
 
 2. **`pip` (Python package manager)**
-   - a. Pip is the package manager for Python and is used to install Jupyter Notebook and other Python libraries.  
-   - b. To check if pip is installed, run:
+    a. Pip is the package manager for Python and is used to install Jupyter Notebook and other Python libraries.  
+    b. To check if pip is installed, run:
      
       ```bash
       pip --version
