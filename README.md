@@ -12,18 +12,18 @@ Jupyter Notebook is an open-source, web-based interactive computing environment 
       ```  
    d. If Python isn't installed, you can download and install it from [Python.org](https://www.python.org/).
 
-3. **`pip` (Python package manager)**
+2. **`pip` (Python package manager)**
    a. Pip is the package manager for Python and is used to install Jupyter Notebook and other Python libraries.  
    b. To check if pip is installed, run:
    
       ```bash
       pip --version
       ```
-5. **Internet connection**
+3. **Internet connection**
 
 ## Procedure
 1. **Install Jupyter Notebook**  
-   Open your terminal or command prompt and run:
+   a. Open your terminal or command prompt and run
    
    ```bash
    pip install notebook
